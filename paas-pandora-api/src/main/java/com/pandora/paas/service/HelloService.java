@@ -1,4 +1,4 @@
-package com.pandora.service;
+package com.pandora.paas.service;
 
 /**
  * @Description

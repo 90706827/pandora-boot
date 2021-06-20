@@ -1,4 +1,4 @@
-package com.pandora;
+package com.pandora.paas;
 
 import com.taobao.pandora.boot.PandoraBootstrap;
 import org.springframework.boot.SpringApplication;
